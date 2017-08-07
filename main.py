@@ -2,7 +2,7 @@ import pygame
 import os
 import math
 
-os.system('clear')
+os.system("clear")
 
 print('Room Triangulation System')
 print('Scale: 1m = 100px')
@@ -109,17 +109,3 @@ while(running):
 	count += 1
 
 	pygame.display.flip()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
